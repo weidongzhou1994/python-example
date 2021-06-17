@@ -40,4 +40,3 @@ def generate_multi_term(data):
 data = generate_multi_term(data)
 
 print(data)
-
